@@ -1,0 +1,22 @@
+[
+    {
+        "package": "pjrt",
+        "url": "https://github.com/r-xla/pjrt"
+    },
+    {
+        "package": "stablehlo",
+        "url": "https://github.com/r-xla/stablehlo"
+    },
+    {
+        "package": "xlamisc",
+        "url": "https://github.com/r-xla/xlamisc"
+    },
+    {
+        "package": "tengen",
+        "url": "https://github.com/r-xla/tengen"
+    },
+    {
+        "package": "anvil",
+        "url": "https://github.com/r-xla/anvil"
+    }
+]
