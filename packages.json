@@ -6,7 +6,8 @@
     },
     {
         "package": "stablehlo",
-        "url": "https://github.com/r-xla/stablehlo"
+        "url": "https://github.com/r-xla/stablehlo",
+        "branch": "*release"
     },
     {
         "package": "xlamisc",
