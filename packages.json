@@ -21,6 +21,7 @@
     },
     {
         "package": "anvil",
-        "url": "https://github.com/r-xla/anvil"
+        "url": "https://github.com/r-xla/anvil",
+        "branch" : "*release"
     }
 ]
