@@ -1,7 +1,8 @@
 [
     {
         "package": "pjrt",
-        "url": "https://github.com/r-xla/pjrt"
+        "url": "https://github.com/r-xla/pjrt",
+        "branch": "*release"
     },
     {
         "package": "stablehlo",
