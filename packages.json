@@ -1,13 +1,11 @@
 [
     {
         "package": "pjrt",
-        "url": "https://github.com/r-xla/pjrt",
-        "branch" : "*release"
+        "url": "https://github.com/r-xla/pjrt"
     },
     {
         "package": "stablehlo",
-        "url": "https://github.com/r-xla/stablehlo",
-        "branch" : "*release"
+        "url": "https://github.com/r-xla/stablehlo"
     },
     {
         "package": "xlamisc",
@@ -21,7 +19,6 @@
     },
     {
         "package": "anvil",
-        "url": "https://github.com/r-xla/anvil",
-        "branch" : "*release"
+        "url": "https://github.com/r-xla/anvil"
     }
 ]
