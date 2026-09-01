@@ -5,6 +5,11 @@
         "branch": "*release"
     },
     {
+        "package": "pjrt.cuda",
+        "url": "https://github.com/r-xla/pjrt.cuda",
+        "branch": "*release"
+    },
+    {
         "package": "stablehlo",
         "url": "https://github.com/r-xla/stablehlo",
         "branch": "*release"
